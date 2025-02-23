@@ -6,4 +6,4 @@
 現在は株式会社PalamesにてFlutterエンジニアとしてアルバイトをさせて頂いております。
 
 # プログラミング言語
-<img src="https://skillicons.dev/icons?i=html,css,js,dart,python,go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=arduino,html,css,js,dart,python,go" /> <br /><br />
